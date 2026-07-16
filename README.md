@@ -1,5 +1,9 @@
-# The title
-a POC on github pages
-Did i fix it?
+# Bem vindo ao meu Omniderno!
 
-Let's see if i can add links to other files: [another](Another.md)
+A idéia deste repositório é ser um caderno para notas gerais que gostaria de poder compartilhar com as pessoas :D
+
+Atualmente há muito espaço vazio por aqui. 
+
+Uma das coisas que vou compartilhar por aqui é o meu 
+
+[Livro de Receitas](recipe-book.md)
