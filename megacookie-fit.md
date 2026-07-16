@@ -12,11 +12,11 @@ Ingredientes:
   - 4 Colheres de sopa de Tapioca
   - 2 Colheres de sopa de Psílio,  
 
-  - 1 e 3/4 xícara de farinha de aveia
-  - 1 colher (chá) de fermento em pó
-  - 150 g de pasta de amendoim (Aprox 4 Colheres de Sopa)
-  - 1 colher (chá) de essência de baunilha
-  - 1 scoop de Whey
+- 1 e 3/4 xícara de farinha de aveia
+- 1 colher (chá) de fermento em pó
+- 150 g de pasta de amendoim (Aprox 4 Colheres de Sopa)
+- 1 colher (chá) de essência de baunilha
+- 1 scoop de Whey
 
 Modo de Preparo:
 Em um recipiente, misture a farinha de aveia, Whey, açúcar mascavo e o fermento. (Ingredientes secos, se estiver preparando a versão VEGAN, misturar aqui)
