@@ -4,7 +4,7 @@ A idéia deste repositório é ser um caderno para notas gerais que gostaria de 
 
 Atualmente há muito espaço vazio por aqui. 
 
-Uma das coisas que vou compartilhar por aqui é o meu 
+Uma das coisas que vou compartilhar por aqui são:
 
-[Livro de Receitas](recipe-book.md)
-[Guia de sobrevivência em sociedade como neurodivergente](nd-survival-book.md)
+- [Livro de Receitas](recipe-book.md)
+- [Guia de sobrevivência em sociedade como neurodivergente](nd-survival-book.md)
