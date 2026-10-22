@@ -8,3 +8,4 @@ Essas são algumas das receitas que tenho até o momento. Por hora elas são um 
 - [Cuca de Morango](cuca.md)
 - [Strogonoff de Frango (com opções vegan)](strogonoff.md)
 - [Torta de Cenoura Fit](fit-carrot-pie.md)
+- [Suco anti-inchaço](anti-bloat-juice.md)
