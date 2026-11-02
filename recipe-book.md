@@ -9,4 +9,4 @@ Essas são algumas das receitas que tenho até o momento. Por hora elas são um 
 - [Strogonoff de Frango (com opções vegan)](strogonoff.md)
 - [Torta de Cenoura Fit](fit-carrot-pie.md)
 - [Suco anti-inchaço](anti-bloat-juice.md)
-- [Bruschetta](italian-bruschetta.md)
+- [Bruschetta Italiana](italian-bruschetta.md)
